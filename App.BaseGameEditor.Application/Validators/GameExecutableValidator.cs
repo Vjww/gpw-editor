@@ -19,7 +19,7 @@ namespace App.BaseGameEditor.Application.Validators
         private const string Sha256ChecksumUnofficialGpwxpV102F = "90-5B-F1-A9-99-CD-40-40-1C-37-9E-99-C7-B2-96-1D-7C-A3-CE-97-4D-BB-67-55-D4-55-E8-6E-E7-C1-D3-BB";
         private const string Sha256ChecksumUnofficialGpwxpV103F = "24-A7-7D-D8-73-62-EB-19-ED-E1-3A-E4-0C-AC-12-D8-EC-CB-33-EA-81-82-AD-D8-19-76-99-8A-E4-9D-84-77";
 
-        // Unofficially released versions via GPRaceGames development
+        // Unofficially released versions via Forum Community development
         private const string Sha256ChecksumUnofficialGpwV102B = "7E-17-EA-13-00-71-50-97-7F-C5-FC-17-AE-B3-6D-42-34-E6-50-6E-AA-87-DB-A7-CB-36-13-59-AD-20-7C-9C";
         private const string Sha256ChecksumUnofficialGpwV103B = "7D-DA-30-B4-65-74-A1-33-D3-6E-A9-F6-D2-F9-FE-0B-25-6C-8B-22-3A-E6-63-77-E5-63-FF-EF-93-1E-AD-29";
         private const string Sha256ChecksumUnofficialGpwV103B251815 = "E5-CB-F0-B8-74-CB-1B-D8-3C-A1-D0-01-3F-71-30-5C-F2-F9-F0-C9-1A-53-F8-A5-70-D1-05-C7-E8-B0-8D-CC";

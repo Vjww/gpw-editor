@@ -133,13 +133,15 @@ Registry keys are created by the {1} installer on the original game CD, however 
 If you require the registry keys for troubleshooting or legacy support, please ensure {0} is running as an administrator and click on the button below to install the registry keys.</value>
   </data>
   <data name="AboutRichTextBox.Text" xml:space="preserve">
-    <value>{\rtf1\ansi\deff0Thank you for using GPW Edit to enjoy Grand Prix World!
+    <value>{\rtf1\ansi\ansicpg1252\deff0{\colortbl ;\red0\green102\blue204;}Thank you for using GPW Edit to enjoy Grand Prix World!
+	
+GPW Edit is dedicated to the efforts of many individuals over the last 25+ years who have worked tirelessly and out of pure passion to keep this game alive by troubleshooting compatibility issues, finding workarounds, creating editors, season mods, car liveries and other works. It has been tough going but the game continues to evolve as new ways of upgrading the game are found. We are always welcoming new talent to take this game on and further it's moddability.
 
-GPW Edit is dedicated to the efforts of many individuals over the last 20+ years who have worked tirelessly and out of pure passion to keep this game alive by troubleshooting compatibility issues, finding workarounds, creating editors, season mods, car liveries and other works. It has been tough going but the game continues to evolve as new ways of upgrading the game are found.
+\f1\fs20\u127760?\f0  {\b Forums} \endash  {\field{\fldinst{HYPERLINK "https://gpmplanet.proboards.com"}}{\fldrslt \cf1\ul  https://gpmplanet.proboards.com}}
+Discussions, questions, guides, ideas, and community support.
 
-Please visit www.forum.gpracegames.com and join the community!
-
-We are always welcoming new talent to take this game on and increase its moddability.}</value>
+\f1\fs20\u128172?\f0  {\b Discord} \endash  {\field{\fldinst{HYPERLINK "https://discord.gg/qz7SYyx"}}{\fldrslt \cf1\ul  https://discord.gg/qz7SYyx}}
+Real-time chat, quick questions, and community discussion.}</value>
   </data>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>82</value>
