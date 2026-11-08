@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\App.LanguageFileEditor.Data\App.LanguageFileEditor.Data.csproj" />
+    <ProjectReference Include="..\App.LanguageFileEditor.Domain\App.LanguageFileEditor.Domain.csproj" />
+    <ProjectReference Include="..\App.LanguageFileEditor.Infrastructure\App.LanguageFileEditor.Infrastructure.csproj" />
+    <ProjectReference Include="..\App.Shared.Infrastructure\App.Shared.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
