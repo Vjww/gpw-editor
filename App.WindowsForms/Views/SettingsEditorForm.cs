@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Diagnostics;
+using System.Windows.Forms;
 using App.WindowsForms.Controllers;
 
 namespace App.WindowsForms.Views
@@ -53,6 +55,15 @@ namespace App.WindowsForms.Views
         private void ResetButton_Click(object sender, EventArgs e)
         {
             _controller.ResetRegistryKeys();
+        }
+
+        private void AboutRichTextBox_LinkClicked(object sender, LinkClickedEventArgs e)
+        {
+            Process.Start(new ProcessStartInfo
+            {
+                FileName = e.LinkText,
+                UseShellExecute = true
+            });
         }
 
         public void FormatGameFolderDescriptionLabelText(string applicationName)

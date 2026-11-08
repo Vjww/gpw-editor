@@ -459,6 +459,7 @@
             this.AboutRichTextBox.TabIndex = 0;
             this.AboutRichTextBox.TabStop = false;
             this.AboutRichTextBox.Text = resources.GetString("AboutRichTextBox.Text");
+            this.AboutRichTextBox.LinkClicked += new System.Windows.Forms.LinkClickedEventHandler(this.AboutRichTextBox_LinkClicked);
             // 
             // SettingsEditorForm
             // 
